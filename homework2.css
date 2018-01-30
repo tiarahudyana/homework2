@@ -1,0 +1,42 @@
+h1 {
+  font-style: italic;
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+
+}
+body {
+  background-color: #444444;
+  color: white;
+  border: 5px solid rgba(255, 255, 255, 0.3);
+  margin: 40px;
+}
+
+.main {
+  padding: 35px 50px;
+  display: inline-block;
+}
+
+img {
+  border: 1px solid;
+  padding: 10px;
+  float: right;
+  display: inline-block;
+}
+
+.social {
+  text-align: center;
+}
+
+a {
+  color: #30C490;
+}
+
+p{
+  font-size: 17px;
+  line-height: 1.5em;
+}
